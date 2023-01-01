@@ -1,1 +1,2 @@
 name: TeamApprovalWorkflow
+on: pull_request_review
